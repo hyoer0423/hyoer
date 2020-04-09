@@ -1,0 +1,9 @@
+THEATER,cinema, Abaton,address,Grindle Alley,,
+THEATER,cinema, Flora,address, Old Village,,
+THEATER,cinema,Holi,,,,
+PERFORMANCE,cinema, Flora,title,The Piano,date, May 7
+PERFORMANCE,cinema,Holi,title,Manhattan,,
+PLAY,title,The Piano,director,Campio,,
+PLAY,title,Manhattan,director,Allen,,
+NATIONALITY,director,Campio,country,USA,,
+NATIONALITY,director,Allen,country,USA,,
